@@ -6,7 +6,7 @@ If you are an instructor/teacher/professor, feel free to learn more on how to cr
 
 ## Instructions
 
-*Please put your name here:* **YOUR NAME**
+*Please put your name here:* **Bruno**
 
 ### Exercises
 
